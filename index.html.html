@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Khmer Stream - គេហទំព័រមើលរឿង និងវីដេអូ</title>
+    <title>Khmer Stream - វីដេអូផ្ទាល់ខ្លួននិង ស្រីស្អាតផ្ញេីឱ្យមេីល6😛💦</title>
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Fonts: Battambang & Kantumruy Pro for Khmer typography -->
@@ -72,12 +72,7 @@
                 <a href="#" onclick="showSection('home')" class="flex items-center gap-2">
                     <span class="text-2xl md:text-3xl font-black text-brand-red tracking-wider">KHMER<span class="text-white">STREAM</span></span>
                 </a>
-                <div class="hidden lg:flex items-center space-x-4 text-sm font-medium">
-                    <button onclick="filterCategory('all')" class="nav-btn hover:text-brand-red transition text-white">ទំព័រដើម</button>
-                    <button onclick="filterCategory('វាយប្រហារ')" class="nav-btn hover:text-brand-red transition text-gray-300">រឿងវាយប្រហារ</button>
-                    <button onclick="filterCategory('កំប្លែង')" class="nav-btn hover:text-brand-red transition text-gray-300">រឿងកំប្លែង</button>
-                    <button onclick="filterCategory('ស្នេហា')" class="nav-btn hover:text-brand-red transition text-gray-300">រឿងស្នេហា</button>
-                    <button onclick="filterCategory('រឿងតុក្កតា')" class="nav-btn hover:text-brand-red transition text-gray-300">តុក្កតា/Anime</button>
+                <div class="hidden lg:flex items-center space-x-4 text-sm font-medium"
                     <button onclick="filterCategory('វីដេអូទូទៅ')" class="nav-btn hover:text-brand-red transition text-gray-300">វីដេអូទូទៅ</button>
                 </div>
             </div>
